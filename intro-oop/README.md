@@ -1,4 +1,4 @@
-### Programming Quiz
+﻿### Programming Quiz
 
 #### Objective
 Your task is to enhance the notification system using the Decorator Pattern. You need to create a `LoggingNotifierDecorator` class which will add logging functionality to any class implementing `INotifier`.
